@@ -1,0 +1,10 @@
+IT requests: https://srms.dell.com/sso/
+
+http://intranet.dell.com/dept/hr/Global/TA/NewHire/Documents/Forms/AllItems.aspx
+
+VPN Access url:https://dellidm.dell.com/ARPortal/page.axd 
+Bridge no from office: 3355101
+
+TFS: http://tfs2.dell.com:8080/tfs/eDell/eDellPrograms/Hollywood/_backlogs/Iteration/Sprint02
+
+http://dotnetslackers.com/articles/designpatterns/IntroductionToStructureMap.aspx
